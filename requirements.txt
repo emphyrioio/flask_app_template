@@ -1,0 +1,16 @@
+alembic
+blinker
+click
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+greenlet
+itsdangerous
+Jinja2
+Mako
+MarkupSafe
+PyYAML
+SQLAlchemy
+typing_extensions
+Unidecode
+Werkzeug
